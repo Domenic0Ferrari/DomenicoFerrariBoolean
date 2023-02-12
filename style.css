@@ -1,0 +1,73 @@
+body {
+    background-image: url("sfondo.jpg");
+    background-size: cover;
+
+}
+
+    .container{
+        width: 1000px;
+        margin-left: 200px;
+        margin-right: 200px;
+        margin-bottom: 100px;
+        margin-top: 30px;
+        background-color: rgba(0, 0, 0, 0.5);
+        border-radius: 8px;
+        padding: 3%;
+    }
+
+    header{
+        text-align: center;
+        margin-top: 120px;
+    }
+
+    .logo{
+        width: 270px;
+    }
+
+    h1{
+        color: lime;
+    }
+    
+    .pulsanti{
+        text-align: center;
+        width: 900px;
+        height: 40px;
+        background-color: lime;
+        padding: 10px;
+    }
+
+    *{
+        box-sizing: border-box;
+    }
+
+    h3{
+        display: inline-block;
+        color: white;
+        font-size: 25px;
+    }
+
+    div{
+        color: white;
+        font-size: 20px;
+    }
+
+    .percentualeg{
+        background-color: orange;
+        width: 300px;
+        height: 30px;
+        border-radius: 2px;
+    }
+
+    .percentualem{
+        background-color: green;
+        width: 600px;
+        height: 30px;
+        border-radius: 2px;
+    }
+    
+    .percentualef{
+        background-color: red;
+        width: 150px;
+        height: 30px;
+        border-radius: 2px;
+    }
